@@ -1,5 +1,5 @@
 # My Co-op Portfolio Website
-[https://www.jonathanfaber.ca](https://www.jonathanfaber.ca)
+[https://jonathanfaber.ca](https://jonathanfaber.ca)
 
 ## Running in development
 `gatsby develop`

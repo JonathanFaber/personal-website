@@ -1,10 +1,10 @@
 {
-  "name": "jonathanism-website",
-  "description": "Jonathanism website",
+  "name": "jonathan-website",
+  "description": "Jonathan Faber website",
   "version": "1.0.0",
-  "author": "Jonathan <jonathan@jonathanism.com>",
+  "author": "Jonathan <imhungry3.14159@gmail.com>",
   "bugs": {
-    "url": "https://www.jonathanism.com"
+    "url": "https://www.jonathanfaber.ca"
   },
   "dependencies": {
     "bootstrap": "^4.1.3",

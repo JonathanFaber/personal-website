@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Jonathanism',
-    author: 'Jonathanism',
-    description: 'The official website of Jonathanism',
-    siteUrl: 'https://www.jonathanism.com',
+    title: 'Jonathan Faber',
+    author: 'Jonathan Faber',
+    description: 'Reports for all of my Co-op workterms',
+    siteUrl: 'https://www.jonathanfaber.ca',
   },
   pathPrefix: '/website',
   plugins: [

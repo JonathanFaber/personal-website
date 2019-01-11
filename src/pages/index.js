@@ -13,19 +13,29 @@ class BlogIndex extends React.Component {
     return (
       <div>
         <Helmet title={siteTitle} />
-        <h1><strong>Jonathanism</strong></h1>
-        <Bio />
+        <h1><strong>Jonathan Faber</strong></h1>
+        <p>
+          Welcome to my personal website. The blog was originally created to post 
+          my Co-op workterm experiences. It will contain posts on anything that I
+          find interesting.
+        </p>
+
         {posts.map(({ node }) => {
           const title = get(node, 'frontmatter.title') || node.fields.slug
           return (
-            <div key={node.fields.slug}>
-              <h3>
-                <Link to={node.fields.slug}>
-                  {title}
-                </Link>
-              </h3>
-              <small>{node.frontmatter.date}</small>
-              <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+            <div>
+              <div key={node.fields.slug} className="card">
+                <div className="card-body">
+                  <h3 className="card-title">
+                    <Link to={node.fields.slug}>
+                      {title}
+                    </Link>
+                  </h3>
+                  <small className="card-subtitle text-muted">{node.frontmatter.date}</small>
+                  <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+                </div>
+              </div>
+              <br/>
             </div>
           )
         })}
