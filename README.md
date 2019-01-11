@@ -1,4 +1,4 @@
-# My Co-op Portfolio Website
+# My Personal Website
 [https://www.jonathanfaber.ca](https://www.jonathanfaber.ca)
 
 ## Running in development
