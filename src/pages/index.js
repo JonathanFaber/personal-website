@@ -2,7 +2,6 @@ import React from 'react'
 import Link from 'gatsby-link'
 import get from 'lodash/get'
 import Helmet from 'react-helmet'
-import Bio from '../components/Bio'
 import "../../scss/style.scss"
 
 class BlogIndex extends React.Component {
@@ -16,7 +15,7 @@ class BlogIndex extends React.Component {
         <h1><strong>Jonathan Faber</strong></h1>
         <p>
           Welcome to my personal website. The blog was originally created to post 
-          my Co-op workterm experiences. It will contain posts on anything that I
+          my Co-op workterm experiences. It will also contain posts on anything that I
           find interesting.
         </p>
 
