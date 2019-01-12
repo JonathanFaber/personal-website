@@ -18,15 +18,14 @@ Zeitspace is a company with a positive and friendly atmosphere. They have an ope
 #### 1. Learn and use many new technologies
 These technologies include programming languages, libraries and frameworks.
 My plan was to do work which is totally new to me and not being afraid of trying out new things.
-I got to learn many new technologies! The most important technologies I learned were, JavaScript, React, PostgreSQL, JQuery, HTML, CSS. I also got some basic experience with other techs. 
+I got to learn many new technologies which are relevant in the web devlopment industry. Some of the technologies I learned were, JavaScript, React, PostgreSQL, GraphQL, JQuery, HTML, CSS. One intersting technology I worked with was GatsbyJS. Gatsby generates static progressive web apps from React. It taught me how to build a web app following JAMstack principles. Zeitspace w
 
 #### 2. Contribute more in project meetings
 I have a more reserved personality, and I wanted to work on sharing my ideas in a group setting. To do so I worked on sharing and explaining my opinion more often. I did with a specific focus on project meetings because that is where I had the most trouble. In our weekly meeting there was a portion called the retrospective. It is where everyone on the team reflects on the week and explains what they think the team should start doing, do more, keep doing, do less, and stop doing. The retrospective definitely provided a great platform for me to achieve my learning goals. This was definitely my most challenging learning goal. Although there is much room for progress, I definitely improved and my team saw it as well. I have learned that sharing my opinion can generate discussion and help not just myself, but others as well, with understanding the objectives of the team and the project.
 
 #### 3. Do some pair programming
-For a challenging problem I will find a partner and pair up. One partner, the driver, writes code and the other partner, the observer, reviews the code as it is written. Ideally there is a lot of communication between the driver and the observer. I plan on doing the roles of both the driver and the observer.
-I did pair programming twice. The first time, I paired up with a senior developer, and I was the driver. It was a confusing task and they helped me see things in different ways, which helped me to better understand the problem. The second time, I was the observer and helped my team member solve a few problems. Overall pair programming is an effective way to speed up learning and task completion. I hope to use it much more in the future.
-
+What is pair programming? It consists of one programmer, the driver, who writes code and another programmer, the observer, who reviews the code as it is written. Ideally there is a lot of communication between the driver and the observer, and the problem gets solved much quicker.
+I ended up pair programming twice. The first time, I paired up with a senior developer, and I was the driver. It was a confusing task and they helped me see things in different ways, which helped me to better understand the problem. The second time, I was the observer and helped my team member solve a few problems. Overall pair programming is an effective tool to speed up learning and task completion. I plan on using it much more in the future.
 
 ### Job Description
 
@@ -38,4 +37,4 @@ The second project I worked on was for Fluxible.
 
 ### Conclusion
 
-I am glad to have had the opportunity to work at Zeitspace. This was my first job relating to computer science and my Co-op at Zeitspace has convinced me that I chose the right career path.
+I am glad to have had the opportunity to work at Zeitspace. This was my first job involving computer science and my Co-op at Zeitspace has confirmed that I chose the right career path.
